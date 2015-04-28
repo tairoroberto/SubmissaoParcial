@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SubmissaoParcial:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SubmissaoParcial.war">
+      <element id="artifact" artifact-name="SubmissaoParcial:war exploded" />
+    </root>
+  </artifact>
+</component>
